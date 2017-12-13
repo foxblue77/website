@@ -6,4 +6,4 @@ After finishing *Learn Enough* Git to be Dangerous, you'll be able to track chan
 
 [Git Documentation](https://github.com/features#documentation)
 
-****FOXBLUE77****
+****- FOXBLUE77 -****
